@@ -104,7 +104,3 @@ F9
 * Equalizar imagens coloridas pelo modelo HSL;
 * Realizar segmentação utilizando OTSU;
 * Aplicar operações morfológicas em imagens binárias.
-
-## Autor
-
-Desenvolvido como trabalho prático da disciplina de **Processamento Digital de Imagens (PDI)**.
